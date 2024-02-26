@@ -1,0 +1,198 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.primeira-secao {
+    padding: 30px;
+    background-color: #afddfb;
+}
+
+.primeira-secao img {
+    width: 150px;
+}
+
+.primeira-secao p {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.primeira-secao a {
+    font-size: 18px;
+    color:#1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.segunda-secao {
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+
+.terceira-secao {
+    padding: 30px;
+    margin: 30px;
+    text-align: center;
+    justify-content: center;
+}
+
+.terceira-secao h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.terceira-secao h4 {
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.terceira-secao img {
+    width: 450px;
+}
+
+.terceira-secao p {
+    font-size: 18px;
+    line-height: 28px;
+    text-align: justify;
+    width: 980px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.texto-azul {
+    color: #1d80c1;
+    font-weight: bold;
+}
+
+.quarta-secao {
+    padding: 30px;
+    background-color: #1d80c1;
+}
+
+.quarta-secao h2 {
+    color: white;
+    font-size: 28px;
+    line-height: 42px;
+    text-align: center;
+    font-weight: 700px;
+}
+
+.quarta-secao p {
+    font-size: 22px;
+    line-height: 42px;
+    text-align: center;
+    width: 700px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.texto-amarelo {
+    font-weight: bold;
+    color: #fff81b;
+}
+
+
+.quarta-secao ul {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 135px;
+    text-align: left;
+    color: white;
+    line-height: 42px;
+    font-size: 22px;
+}
+
+.quinta-secao {
+    color: #1c81c0;
+    margin-top: 0;
+    font-size: 28px;
+    line-height: 42px;
+    text-align: center;
+    font-weight: 700px;
+}
+
+.quinta-secao img {
+    width: 450px;
+}
+
+.quinta-secao p {
+    font-size: 18px;
+    line-height: 28px;
+    text-align: justify;
+    width: 980px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+
+.sexta-secao {
+    background-color: #1d80c1;
+    margin-top: 0;
+    font-size: 28px;
+    line-height: 42px;
+    text-align: center;
+    font-weight: 700px;
+}
+
+.sexta-secao h2 {
+    color: white;
+    font-size: 28px;
+    line-height: 42px;
+    text-align: center;
+    font-weight: 700px;
+}
+
+.sexta-secao p {
+    font-size: 18px;
+    line-height: 28px;
+    text-align: justify;
+    width: 980px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background-color: black;
+    padding: 15px;
+}
+
+.sexta-secao ul {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.sexta-secao a {
+    background-color: white;
+    color: #1d80c1;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+}
+
+.lista-dois {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-type: none;
+    width: 210px;
+}
